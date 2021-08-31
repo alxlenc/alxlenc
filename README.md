@@ -54,9 +54,6 @@ I am a Software Engineer with a background in backend development, some frontend
 
 ### 📺 Latest Youtube Videos
 
-
-🎥 [... more YouTube videos](youtubechannel)
-
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [[Istio Dark Release] Frontend recommendations filter UI](https://www.youtube.com/watch?v=zqSmLRE0lIQ)
 - [[CICD + Canary Release] Tekton + Argocd + Argo Rollouts + Istio](https://www.youtube.com/watch?v=HzNx88H7nxU)
@@ -65,5 +62,6 @@ I am a Software Engineer with a background in backend development, some frontend
 - [[Hexagonal Architecture] Demo implementation](https://www.youtube.com/watch?v=eiGwvGBXFT8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
+🎥 [... more YouTube videos](youtubechannel)
 
 [youtubechannel]: https://www.youtube.com/channel/UCKDLpT5eNYG1FUOsPF4zo9Q
