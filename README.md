@@ -69,3 +69,11 @@ I am a Software Engineer with a background in backend development, some frontend
 
 <br />
 <br />
+
+### 📚 Reading activity
+
+<!-- GOODREADS-READ-SHELF:START -->
+<!-- GOODREADS-READ-SHELF:END -->
+
+<!-- GOODREADS-CURRENTLY-SHELF:START -->
+<!-- GOODREADS-CURRENTLY-SHELF:END -->
