@@ -50,12 +50,12 @@ I am a Software Engineer with a background in backend development, some frontend
 
 [<img align="left" alt="Raspberripi" width="20px" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/raspberrypi/raspberrypi-original.svg"/>](https://www.raspberrypi.org/)
 
-
+<br />
 
 ### 📺 Latest Youtube Videos
 
 
-🎞️ [... more YouTube videos](youtubechannel)
+🎥 [... more YouTube videos](youtubechannel)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 
@@ -63,4 +63,4 @@ I am a Software Engineer with a background in backend development, some frontend
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
-[youtubechannel](https://www.youtube.com/channel/UCKDLpT5eNYG1FUOsPF4zo9Q)
+[youtubechannel]: https://www.youtube.com/channel/UCKDLpT5eNYG1FUOsPF4zo9Q
