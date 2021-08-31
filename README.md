@@ -73,6 +73,16 @@ I am a Software Engineer with a background in backend development, some frontend
 ### 📚 Reading activity
 
 <!-- GOODREADS-READ-SHELF:START -->
+- [JavaScript: The Good Parts](https://www.goodreads.com/review/show/4210637794?utm_medium=api&utm_source=rss) by Douglas Crockford. In my opinion: unrated
+- [Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)](https://www.goodreads.com/review/show/3470086928?utm_medium=api&utm_source=rss) by Michael T. Nygard. In my opinion: ⭐⭐⭐⭐⭐
+- [SCJP Sun Certified Programmer for Java 6 Study Guide](https://www.goodreads.com/review/show/3411630650?utm_medium=api&utm_source=rss) by Kathy Sierra. In my opinion: ⭐⭐⭐⭐⭐
+- [Head First Java](https://www.goodreads.com/review/show/3410417165?utm_medium=api&utm_source=rss) by Kathy Sierra. In my opinion: ⭐⭐⭐⭐⭐
+- [Effective Java](https://www.goodreads.com/review/show/3410415783?utm_medium=api&utm_source=rss) by Joshua Bloch. In my opinion: ⭐⭐⭐⭐⭐
+- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/3410415970?utm_medium=api&utm_source=rss) by Sam Newman. In my opinion: ⭐⭐⭐⭐⭐
+- [Java 8 in Action](https://www.goodreads.com/review/show/3410415601?utm_medium=api&utm_source=rss) by Raoul-Gabriel Urma. In my opinion: ⭐⭐⭐⭐⭐
+- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/review/show/3410415052?utm_medium=api&utm_source=rss) by Robert C. Martin. In my opinion: ⭐⭐⭐⭐⭐
+- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/review/show/3410413514?utm_medium=api&utm_source=rss) by Eric Evans. In my opinion: ⭐⭐⭐⭐
+- [Clean Architecture](https://www.goodreads.com/review/show/3410413044?utm_medium=api&utm_source=rss) by Robert C. Martin. In my opinion: ⭐⭐⭐⭐⭐
 <!-- GOODREADS-READ-SHELF:END -->
 
 <!-- GOODREADS-CURRENTLY-SHELF:START -->
