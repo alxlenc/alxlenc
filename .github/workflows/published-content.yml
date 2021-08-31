@@ -1,13 +1,13 @@
 name: Blog Posts
 
 on:
-  # Run workflow automatically
   schedule:
-    - cron: '* * * * *'
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme-with-youtube:
+    name: Update this README with YouTube Videos
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
