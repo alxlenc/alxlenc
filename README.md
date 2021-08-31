@@ -56,7 +56,7 @@ I am a Software Engineer with a background in backend development, some frontend
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [[Istio Dark Release] Frontend recommendations filter UI](https://www.youtube.com/watch?v=zqSmLRE0lIQ)
-- [[CICD + Canary Release] Tekton + Argocd + Argo Rollouts + Istio](https://www.youtube.com/watch?v=HzNx88H7nxU)
+- [[Canary Release] Tekton + Argocd + Argo Rollouts + Istio](https://www.youtube.com/watch?v=HzNx88H7nxU)
 - [[Java Backend] Feature 02: Song Recommendations Filters](https://www.youtube.com/watch?v=QmzbV03ACkA)
 - [[Tekton] Java build pipeline](https://www.youtube.com/watch?v=Kvakrsuam3E)
 - [[Hexagonal Architecture] Demo implementation](https://www.youtube.com/watch?v=eiGwvGBXFT8)
