@@ -86,4 +86,5 @@ I am a Software Engineer with a background in backend development, some frontend
 <!-- GOODREADS-READ-SHELF:END -->
 
 <!-- GOODREADS-CURRENTLY-SHELF:START -->
+- [Reactive Spring](https://www.goodreads.com/review/show/3650919332?utm_medium=api&utm_source=rss) by Josh Long (⭐️2.91)
 <!-- GOODREADS-CURRENTLY-SHELF:END -->
