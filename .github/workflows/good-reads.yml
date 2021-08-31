@@ -16,9 +16,9 @@ jobs:
           goodreads_user_id: "117462291"
           shelf: "read"
           template: "- [$title]($url) by $author. In my opinion: $my_rating_stars"
-          comment_tag_name: "GOODREAD-READ-SHELF"
+          comment_tag_name: "GOODREADS-READ-SHELF"
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "117462291"
           shelf: "currently-reading"
-          comment_tag_name: "GOODREAD-CURRENTLY-SHELF"
+          comment_tag_name: "GOODREADS-CURRENTLY-SHELF"
