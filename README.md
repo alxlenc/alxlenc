@@ -5,7 +5,7 @@ I am a Software Engineer with a background in backend development, some frontend
 
 <br />
 
-### 🧰 Toolbox:
+### 🧰 Toolbox
 
 
 ### [<img align="left" style="margin-bottom: 0px" alt="Intellij" width="20px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg?_gl=1*1ie82zt*_ga*OTA2MjY5MzQ3LjE2MTE4MjYxNjM.*_ga_V0XZL7QHEB*MTYzMDM0MjA0Ny4xMS4wLjE2MzAzNDIwNDcuMA..&_ga=2.238307463.686506862.1630342047-906269347.1611826163" />](https://www.jetbrains.com/idea/)
@@ -49,3 +49,18 @@ I am a Software Engineer with a background in backend development, some frontend
 [<img align="left" alt="Bash" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png" />](https://www.gnu.org/software/bash/)
 
 [<img align="left" alt="Raspberripi" width="20px" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/raspberrypi/raspberrypi-original.svg"/>](https://www.raspberrypi.org/)
+
+
+
+### 📺 Latest Youtube Videos
+
+
+🎞️ [... more YouTube videos](youtubechannel)
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
+[youtubechannel](https://www.youtube.com/channel/UCKDLpT5eNYG1FUOsPF4zo9Q)
