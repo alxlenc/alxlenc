@@ -51,6 +51,7 @@ I am a Software Engineer with a background in backend development, some frontend
 [<img align="left" alt="Raspberripi" width="20px" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/raspberrypi/raspberrypi-original.svg"/>](https://www.raspberrypi.org/)
 
 <br />
+<br />
 
 ### 📺 Latest Youtube Videos
 
@@ -65,3 +66,6 @@ I am a Software Engineer with a background in backend development, some frontend
 🎥 [... more YouTube videos](youtubechannel)
 
 [youtubechannel]: https://www.youtube.com/channel/UCKDLpT5eNYG1FUOsPF4zo9Q
+
+<br />
+<br />
