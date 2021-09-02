@@ -2,13 +2,16 @@
 
 ### I am a Software Engineer. My main field of expertise is in backend development, but I also have some frontend knowledge and I am passionate about cloud native technologies.
 
-### I enjoy...
+<br />
 
 ```
 ~$ 🐧 Linux and Open Source enthusiast.
+
 ~$ 💻 Clean Code and Testable Software.
+
 ~$ ⛵ Kubernetes and other Cloud Native Technologies.
-~$ 🏠 Selfhosting and my homeoffice.  
+
+~$ 🏠 Selfhosting and Homelabs.  
 ```
 
 <br />
@@ -59,7 +62,6 @@
 [<img align="left" alt="Raspberripi" width="20px" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/raspberrypi/raspberrypi-original.svg"/>](https://www.raspberrypi.org/)
 
 <br />
-<br />
 
 ## 📺 My Channel's Latest Videos
 
@@ -71,12 +73,9 @@
 - [[Hexagonal Architecture] Demo implementation](https://www.youtube.com/watch?v=eiGwvGBXFT8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-🎥 [... more YouTube videos](youtubechannel)
+🎥 [... more YouTube videos on my channel](youtubechannel)
 
 [youtubechannel]: https://www.youtube.com/channel/UCKDLpT5eNYG1FUOsPF4zo9Q
-
-<br />
-<br />
 
 ## 📚 Reading activity
 
@@ -85,9 +84,6 @@
 <!-- GOODREADS-CURRENTLY-SHELF:START -->
 - [Reactive Spring](https://www.goodreads.com/review/show/3650919332?utm_medium=api&utm_source=rss) by Josh Long (⭐️2.91)
 <!-- GOODREADS-CURRENTLY-SHELF:END -->
-
-<br/>
-
 
 ### 📔 Books I would recommend
 <!-- GOODREADS-READ-SHELF:START -->
