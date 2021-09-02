@@ -1,11 +1,19 @@
-### 👋 Hi there, I'm Alex
+## 👋 Hi there, I'm Alex
 
-I am a Software Engineer with a background in backend development, some frontend expertise and passionate about cloud native technologies and open source.
+### I am a Software Engineer. My main field of expertise is in backend development, but I also have some frontend knowledge and I am passionate about cloud native technologies.
 
+### I enjoy...
+
+```
+~$ 🐧 Linux and Open Source enthusiast.
+~$ 💻 Clean Code and Testable Software.
+~$ ⛵ Kubernetes and other Cloud Native Technologies.
+~$ 🏠 Selfhosting and my homeoffice.  
+```
 
 <br />
 
-### 🧰 Toolbox
+## 🧰 Toolbox
 
 
 ### [<img align="left" style="margin-bottom: 0px" alt="Intellij" width="20px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg?_gl=1*1ie82zt*_ga*OTA2MjY5MzQ3LjE2MTE4MjYxNjM.*_ga_V0XZL7QHEB*MTYzMDM0MjA0Ny4xMS4wLjE2MzAzNDIwNDcuMA..&_ga=2.238307463.686506862.1630342047-906269347.1611826163" />](https://www.jetbrains.com/idea/)
@@ -53,7 +61,7 @@ I am a Software Engineer with a background in backend development, some frontend
 <br />
 <br />
 
-### 📺 Latest Youtube Videos
+## 📺 My Channel's Latest Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [[Istio Dark Release] Frontend recommendations filter UI](https://www.youtube.com/watch?v=zqSmLRE0lIQ)
@@ -70,21 +78,29 @@ I am a Software Engineer with a background in backend development, some frontend
 <br />
 <br />
 
-### 📚 Reading activity
+## 📚 Reading activity
 
-<!-- GOODREADS-READ-SHELF:START -->
-- [JavaScript: The Good Parts](https://www.goodreads.com/review/show/4210637794?utm_medium=api&utm_source=rss) by Douglas Crockford. In my opinion: unrated
-- [Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)](https://www.goodreads.com/review/show/3470086928?utm_medium=api&utm_source=rss) by Michael T. Nygard. In my opinion: ⭐⭐⭐⭐⭐
-- [SCJP Sun Certified Programmer for Java 6 Study Guide](https://www.goodreads.com/review/show/3411630650?utm_medium=api&utm_source=rss) by Kathy Sierra. In my opinion: ⭐⭐⭐⭐⭐
-- [Head First Java](https://www.goodreads.com/review/show/3410417165?utm_medium=api&utm_source=rss) by Kathy Sierra. In my opinion: ⭐⭐⭐⭐⭐
-- [Effective Java](https://www.goodreads.com/review/show/3410415783?utm_medium=api&utm_source=rss) by Joshua Bloch. In my opinion: ⭐⭐⭐⭐⭐
-- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/3410415970?utm_medium=api&utm_source=rss) by Sam Newman. In my opinion: ⭐⭐⭐⭐⭐
-- [Java 8 in Action](https://www.goodreads.com/review/show/3410415601?utm_medium=api&utm_source=rss) by Raoul-Gabriel Urma. In my opinion: ⭐⭐⭐⭐⭐
-- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/review/show/3410415052?utm_medium=api&utm_source=rss) by Robert C. Martin. In my opinion: ⭐⭐⭐⭐⭐
-- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/review/show/3410413514?utm_medium=api&utm_source=rss) by Eric Evans. In my opinion: ⭐⭐⭐⭐
-- [Clean Architecture](https://www.goodreads.com/review/show/3410413044?utm_medium=api&utm_source=rss) by Robert C. Martin. In my opinion: ⭐⭐⭐⭐⭐
-<!-- GOODREADS-READ-SHELF:END -->
+### 📖 Currently Reading
 
 <!-- GOODREADS-CURRENTLY-SHELF:START -->
 - [Reactive Spring](https://www.goodreads.com/review/show/3650919332?utm_medium=api&utm_source=rss) by Josh Long (⭐️2.91)
 <!-- GOODREADS-CURRENTLY-SHELF:END -->
+
+<br/>
+
+
+### 📔 Books I would recommend
+<!-- GOODREADS-READ-SHELF:START -->
+- [Effective Java](https://www.goodreads.com/review/show/3410415783?utm_medium=api&utm_source=rss) by Joshua Bloch (⭐️4.66)
+- [Get Your Hands Dirty on Clean Architecture: A hands-on guide to creating clean web applications with code examples in Java](https://www.goodreads.com/review/show/3476533792?utm_medium=api&utm_source=rss) by Tom Hombergs (⭐️4.56)
+- [Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications](https://www.goodreads.com/review/show/3439181712?utm_medium=api&utm_source=rss) by Tomasz Nurkiewicz (⭐️4.44)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3410416606?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
+- [Learning RxJava: Reactive, Concurrent, and responsive applications](https://www.goodreads.com/review/show/3470078909?utm_medium=api&utm_source=rss) by Thomas Nield (⭐️4.38)
+- [Java 8 in Action](https://www.goodreads.com/review/show/3410415601?utm_medium=api&utm_source=rss) by Raoul-Gabriel Urma (⭐️4.35)
+- [SCJP Sun Certified Programmer for Java 6 Study Guide](https://www.goodreads.com/review/show/3411630650?utm_medium=api&utm_source=rss) by Kathy Sierra (⭐️4.28)
+- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/review/show/3410415052?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.26)
+- [Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)](https://www.goodreads.com/review/show/3470086928?utm_medium=api&utm_source=rss) by Michael T. Nygard (⭐️4.24)
+- [Head First Java](https://www.goodreads.com/review/show/3410417165?utm_medium=api&utm_source=rss) by Kathy Sierra (⭐️4.24)
+
+<!-- GOODREADS-READ-SHELF:END -->
+
