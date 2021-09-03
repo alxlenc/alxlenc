@@ -12,14 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: zwacky/goodreads-profile-workflow@main
+      - uses: alxlenc/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "117462291"
           shelf: "read"
-          template: "- [$title]($url) by $author. In my opinion: $my_rating_stars"
+          template: "- [$title]($url) by $author. (⭐ $my_rating - $average_rating)"
           comment_tag_name: "GOODREADS-READ-SHELF"
           sort_by_fields: ">user_rating,>average_rating"
-      - uses: zwacky/goodreads-profile-workflow@main
+      - uses: alxlenc/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "117462291"
           shelf: "currently-reading"
