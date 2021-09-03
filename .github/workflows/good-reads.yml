@@ -18,6 +18,7 @@ jobs:
           shelf: "read"
           template: "- [$title]($url) by $author. In my opinion: $my_rating_stars"
           comment_tag_name: "GOODREADS-READ-SHELF"
+          sort_by_fields: ">user_rating,>average_rating"
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "117462291"
