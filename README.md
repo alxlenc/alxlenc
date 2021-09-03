@@ -86,7 +86,7 @@
 - [Reactive Spring](https://www.goodreads.com/review/show/3650919332?utm_medium=api&utm_source=rss) by Josh Long (⭐️2.91)
 <!-- GOODREADS-CURRENTLY-SHELF:END -->
 
-### 📔 Books I would recommend
+### 📔 Books I would recommend (⭐ my rating - gooreads average)
 <!-- GOODREADS-READ-SHELF:START -->
 - [Get Your Hands Dirty on Clean Architecture: A hands-on guide to creating clean web applications with code examples in Java](https://www.goodreads.com/review/show/3476533792?utm_medium=api&utm_source=rss) by Tom Hombergs. (⭐ 5 - 4.56)
 - [Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications](https://www.goodreads.com/review/show/3439181712?utm_medium=api&utm_source=rss) by Tomasz Nurkiewicz. (⭐ 5 - 4.44)
