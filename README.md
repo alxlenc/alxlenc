@@ -83,7 +83,7 @@
 
 <!-- GOODREADS-CURRENTLY-SHELF:START -->
 - [Istio in Action](https://www.goodreads.com/review/show/4216071878?utm_medium=api&utm_source=rss) by Christian E. Posta (⭐️3.83)
-- [Reactive Spring](https://www.goodreads.com/review/show/3650919332?utm_medium=api&utm_source=rss) by Josh Long (⭐️3)
+- [Reactive Spring](https://www.goodreads.com/review/show/3650919332?utm_medium=api&utm_source=rss) by Josh Long (⭐️3.13)
 <!-- GOODREADS-CURRENTLY-SHELF:END -->
 
 ### 📔 Books I would recommend (⭐ my rating - gooreads average)
