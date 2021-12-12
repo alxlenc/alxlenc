@@ -82,6 +82,8 @@
 ### 📖 Currently Reading
 
 <!-- GOODREADS-CURRENTLY-SHELF:START -->
+- [Tmux 2: Productive Mouse-Free Development](https://www.goodreads.com/review/show/4380993767?utm_medium=api&utm_source=rss) by Brian P. Hogan (⭐️3.84)
+- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.goodreads.com/review/show/4380993318?utm_medium=api&utm_source=rss) by Eric Matthes (⭐️4.34)
 - [Istio in Action](https://www.goodreads.com/review/show/4216071878?utm_medium=api&utm_source=rss) by Christian E. Posta (⭐️3.83)
 - [Reactive Spring](https://www.goodreads.com/review/show/3650919332?utm_medium=api&utm_source=rss) by Josh Long (⭐️3.13)
 <!-- GOODREADS-CURRENTLY-SHELF:END -->
