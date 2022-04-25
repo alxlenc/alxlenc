@@ -85,7 +85,7 @@
 - [Learn Python Programming, Third Edition](https://www.goodreads.com/review/show/4408499917?utm_medium=api&utm_source=rss) by Fabrizio Romano (⭐️)
 - [Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices](https://www.goodreads.com/review/show/4380992969?utm_medium=api&utm_source=rss) by Harry Percival (⭐️4.46)
 - [Istio in Action](https://www.goodreads.com/review/show/4216071878?utm_medium=api&utm_source=rss) by Christian E. Posta (⭐️4)
-- [Reactive Spring](https://www.goodreads.com/review/show/3650919332?utm_medium=api&utm_source=rss) by Josh Long (⭐️3.13)
+- [Reactive Spring](https://www.goodreads.com/review/show/3650919332?utm_medium=api&utm_source=rss) by Josh Long (⭐️3.06)
 <!-- GOODREADS-CURRENTLY-SHELF:END -->
 
 ### 📔 Books I would recommend (⭐ my rating - gooreads average)
