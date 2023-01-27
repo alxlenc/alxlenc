@@ -73,7 +73,7 @@
 - [[Hexagonal Architecture] Demo implementation](https://www.youtube.com/watch?v=eiGwvGBXFT8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-🎥 [... more YouTube videos on my channel](youtubechannel)
+🎥 [... more YouTube videos on my channel](https://www.youtube.com/channel/UCKDLpT5eNYG1FUOsPF4zo9Q)
 
 [youtubechannel]: https://www.youtube.com/channel/UCKDLpT5eNYG1FUOsPF4zo9Q
 
