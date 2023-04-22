@@ -99,6 +99,6 @@
 - [Head First Java](https://www.goodreads.com/review/show/3410417165?utm_medium=api&utm_source=rss) by Kathy Sierra. (⭐ 5 - 4.25)
 - [Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)](https://www.goodreads.com/review/show/3470086928?utm_medium=api&utm_source=rss) by Michael T. Nygard. (⭐ 5 - 4.24)
 - [Clean Architecture](https://www.goodreads.com/review/show/3410413044?utm_medium=api&utm_source=rss) by Robert C. Martin. (⭐ 5 - 4.21)
-- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/3410415970?utm_medium=api&utm_source=rss) by Sam Newman. (⭐ 5 - 4.17)
+- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/3410415970?utm_medium=api&utm_source=rss) by Sam Newman. (⭐ 5 - 4.16)
 <!-- GOODREADS-READ-SHELF:END -->
 
