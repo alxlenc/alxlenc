@@ -90,7 +90,7 @@
 
 ### 📔 Books I would recommend (⭐ my rating - gooreads average)
 <!-- GOODREADS-READ-SHELF:START -->
-- [Get Your Hands Dirty on Clean Architecture: A hands-on guide to creating clean web applications with code examples in Java](https://www.goodreads.com/review/show/3476533792?utm_medium=api&utm_source=rss) by Tom Hombergs. (⭐ 5 - 4.52)
+- [Get Your Hands Dirty on Clean Architecture: A hands-on guide to creating clean web applications with code examples in Java](https://www.goodreads.com/review/show/3476533792?utm_medium=api&utm_source=rss) by Tom Hombergs. (⭐ 5 - 4.51)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3410416606?utm_medium=api&utm_source=rss) by Robert C. Martin. (⭐ 5 - 4.38)
 - [Java 8 in Action](https://www.goodreads.com/review/show/3410415601?utm_medium=api&utm_source=rss) by Raoul-Gabriel Urma. (⭐ 5 - 4.36)
 - [Learning RxJava: Reactive, Concurrent, and responsive applications](https://www.goodreads.com/review/show/3470078909?utm_medium=api&utm_source=rss) by Thomas Nield. (⭐ 5 - 4.36)
