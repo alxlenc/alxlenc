@@ -99,6 +99,6 @@
 - [Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)](https://www.goodreads.com/review/show/3470086928?utm_medium=api&utm_source=rss) by Michael T. Nygard. (⭐ 5 - 4.24)
 - [Building Microservices](https://www.goodreads.com/review/show/3410415970?utm_medium=api&utm_source=rss) by Sam Newman. (⭐ 5 - 4.18)
 - [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.goodreads.com/review/show/3470094868?utm_medium=api&utm_source=rss) by Dave Hoover. (⭐ 5 - 4.12)
-- [Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications](https://www.goodreads.com/review/show/3439181712?utm_medium=api&utm_source=rss) by Tomasz Nurkiewicz. (⭐ 5 - 4.4)
+- [Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications](https://www.goodreads.com/review/show/3439181712?utm_medium=api&utm_source=rss) by Erik Meijer. (⭐ 5 - 4.4)
 <!-- GOODREADS-READ-SHELF:END -->
 
