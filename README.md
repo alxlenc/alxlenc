@@ -92,8 +92,8 @@
 <!-- GOODREADS-READ-SHELF:START -->
 - [Get Your Hands Dirty on Clean Architecture: A hands-on guide to creating clean web applications with code examples in Java](https://www.goodreads.com/review/show/3476533792?utm_medium=api&utm_source=rss) by Tom Hombergs. (⭐ 5 - 4.51)
 - [Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications](https://www.goodreads.com/review/show/3439181712?utm_medium=api&utm_source=rss) by Tomasz Nurkiewicz. (⭐ 5 - 4.39)
+- [Learning RxJava: Reactive, Concurrent, and responsive applications](https://www.goodreads.com/review/show/3470078909?utm_medium=api&utm_source=rss) by Thomas Nield. (⭐ 5 - 4.38)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3410416606?utm_medium=api&utm_source=rss) by Robert C. Martin. (⭐ 5 - 4.37)
-- [Learning RxJava: Reactive, Concurrent, and responsive applications](https://www.goodreads.com/review/show/3470078909?utm_medium=api&utm_source=rss) by Thomas Nield. (⭐ 5 - 4.36)
 - [Java 8 in Action](https://www.goodreads.com/review/show/3410415601?utm_medium=api&utm_source=rss) by Raoul-Gabriel Urma. (⭐ 5 - 4.35)
 - [Head First Java](https://www.goodreads.com/review/show/3410417165?utm_medium=api&utm_source=rss) by Kathy Sierra. (⭐ 5 - 4.25)
 - [Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)](https://www.goodreads.com/review/show/3470086928?utm_medium=api&utm_source=rss) by Michael T. Nygard. (⭐ 5 - 4.24)
