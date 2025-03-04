@@ -98,7 +98,7 @@
 - [Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)](https://www.goodreads.com/review/show/3470086928?utm_medium=api&utm_source=rss) by Michael T. Nygard. (⭐ 5 - 4.24)
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/review/show/3410415052?utm_medium=api&utm_source=rss) by Robert C. Martin. (⭐ 5 - 4.24)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/3410415970?utm_medium=api&utm_source=rss) by Sam Newman. (⭐ 5 - 4.19)
-- [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.goodreads.com/review/show/3470094868?utm_medium=api&utm_source=rss) by Dave Hoover. (⭐ 5 - 4.12)
+- [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.goodreads.com/review/show/3470094868?utm_medium=api&utm_source=rss) by Dave Hoover. (⭐ 5 - 4.11)
 - [Learning RxJava: Reactive, Concurrent, and responsive applications](https://www.goodreads.com/review/show/3470078909?utm_medium=api&utm_source=rss) by Thomas Nield. (⭐ 5 - 4.4)
 <!-- GOODREADS-READ-SHELF:END -->
 
