@@ -92,13 +92,13 @@
 <!-- GOODREADS-READ-SHELF:START -->
 - [Learning RxJava: Reactive, Concurrent, and responsive applications](https://www.goodreads.com/review/show/3470078909?utm_medium=api&utm_source=rss) by Thomas Nield. (⭐ 5 - 4.42)
 - [Reactive Programming with RxJava: Creating Asynchronous, Event-Based Applications](https://www.goodreads.com/review/show/3439181712?utm_medium=api&utm_source=rss) by Tomasz Nurkiewicz. (⭐ 5 - 4.39)
-- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3410416606?utm_medium=api&utm_source=rss) by Robert C. Martin. (⭐ 5 - 4.36)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3410416606?utm_medium=api&utm_source=rss) by Robert C. Martin. (⭐ 5 - 4.35)
 - [Java 8 in Action](https://www.goodreads.com/review/show/3410415601?utm_medium=api&utm_source=rss) by Raoul-Gabriel Urma. (⭐ 5 - 4.34)
 - [Head First Java](https://www.goodreads.com/review/show/3410417165?utm_medium=api&utm_source=rss) by Kathy Sierra. (⭐ 5 - 4.25)
 - [Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)](https://www.goodreads.com/review/show/3470086928?utm_medium=api&utm_source=rss) by Michael T. Nygard. (⭐ 5 - 4.24)
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/review/show/3410415052?utm_medium=api&utm_source=rss) by Robert C. Martin. (⭐ 5 - 4.24)
 - [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/review/show/3410415970?utm_medium=api&utm_source=rss) by Sam Newman. (⭐ 5 - 4.19)
-- [Clean Architecture](https://www.goodreads.com/review/show/3410413044?utm_medium=api&utm_source=rss) by Robert C. Martin. (⭐ 5 - 4.18)
+- [Clean Architecture](https://www.goodreads.com/review/show/3410413044?utm_medium=api&utm_source=rss) by Robert C. Martin. (⭐ 5 - 4.19)
 - [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.goodreads.com/review/show/3470094868?utm_medium=api&utm_source=rss) by Dave Hoover. (⭐ 5 - 4.11)
 <!-- GOODREADS-READ-SHELF:END -->
 
