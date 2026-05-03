@@ -1,7 +1,6 @@
 ## 👋 Hi there, I'm Alex
 
 Python engineer focused on agentic AI and LLM-driven systems.
-Day job: building OpenShift AI training material at Red Hat.
 
 ### Currently
 - Building agentic systems with Claude Code and the Anthropic Agent SDK
